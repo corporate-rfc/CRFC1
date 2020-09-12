@@ -61,18 +61,18 @@ These terms are intended to focus the reader’s attention to specific considera
 
 ## 6.1 Normative References
 
-[BCP14]
+[BCP14]<br/>
 Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997. Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words", BCP 14, RFC 8174, May 2017. <https://www.rfc-editor.org/info/bcp14>
 
-[RFC2119]
+[RFC2119]<br/>
 Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC2119, DOI 10.17487/RFC2119, March 1997, <http://www.rfc-editor.org/info/rfc2119>.
 
-[RFC8174] 
+[RFC8174]<br/>
 Leiba, B., “Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words”, BCP 14, RFC8174, May 2017, <https://www.rfc-editor.org/info/rfc8174>.
 
 ## 6.2 Informative References
 
-[UH60] 
+[UH60]<br/> 
 TM 1-1520-237-10, “OPERATOR'S MANUAL FOR HELICOPTERS, UTILITY TACTICAL TRANSPORT UH-60A (NSN 1520-01-035-0266) (EIC: RSA) UH-60L (NSN 1520-01-298-4532) (EIC: RSM) EH-60A (NSN 1520-01-082-0686) (EIC: RSB)”, January 2019, <https://armypubs.army.mil/ProductMaps/PubForm/Details.aspx?PUB_ID=1006318>.
 
 ## Acknowledgments
