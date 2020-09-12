@@ -51,7 +51,7 @@ Where applicable, _CAUTION_ and the associated text SHALL be rendered in _italic
 
 An operating procedure, practice, etc., which it is essential to highlight.
 
-NOTE and the associated text SHALL be rendered neither bold nor italic, but in the same font as the rest of the document.
+NOTE and the associated text SHALL NOT be rendered in bold or italic, but SHALL be rendered in the same font as the rest of the document.
 
 ## 5. Security Considerations
 
