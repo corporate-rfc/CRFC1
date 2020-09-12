@@ -77,7 +77,7 @@ TM 1-1520-237-10, “OPERATOR'S MANUAL FOR HELICOPTERS, UTILITY TACTICAL TRANSPO
 
 ## Acknowledgments
 
-The definitions introduced in this document are a translation of definitions found in the UH-60 Helicopter Operator’s Manual [UH60].
+The definitions introduced in this document are a translation of definitions found in the introduction section of the UH-60 Helicopter Operator’s Manual [UH60].
 
 ## Author's Address
 
