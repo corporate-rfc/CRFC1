@@ -83,4 +83,4 @@ The definitions introduced in this document are a translation of definitions fou
 
 Tristan Slominski
 
-Email: tristan.slominski@capability.io
+Email: tristan.slominski@gmail.com
