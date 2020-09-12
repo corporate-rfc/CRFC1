@@ -23,7 +23,7 @@ Copyright (c) 2020 the persons identified as the document authors. All rights re
 3. [_CAUTION_](#3-caution)
 4. [NOTE](#4-note)
 5. [Security Considerations](#5-security-considerations)
-6. [References](#6-references)
+6. [References](#6-references)<br/>
 6.1. [Normative References](#61-normative-references)<br/>
 6.2. [Informative References](#62-informative-references)<br/>
 
