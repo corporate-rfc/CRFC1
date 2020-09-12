@@ -18,14 +18,14 @@ Copyright (c) 2020 the persons identified as the document authors. All rights re
 
 ## Table of Contents
 
-1. Introduction
-2. **WARNING**
-3. _CAUTION_
-4. NOTE
-5. Security Considerations
-6. References<br>
-6.1 Normative References<br/>
-6.2 Informative References<br/>
+1. [Introduction](#1-introduction)
+2. [**WARNING**](#2-warning)
+3. [_CAUTION_](#3-caution)
+4. [NOTE](#4-note)
+5. [Security Considerations](#5-security-considerations)
+6. [References](#6-references)
+6.1. [Normative References](#61-normative-references)<br/>
+6.2. [Informative References](#62-informative-references)<br/>
 
 ## 1. Introduction
 
